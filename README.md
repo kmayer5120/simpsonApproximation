@@ -2,7 +2,7 @@
 Basic algorithm from my calculus 2 class that I wrote in Java, C++, and Python. 
 
 
-Process:
+    Process:
     -Get interval from lower and upper bounds
     -Use the interval to calculate midpoint interval
     -Calculate summation for left and right ends of rectangles
@@ -12,6 +12,7 @@ Process:
     -Take weighted average of trapezoids and midpoint rectangles. (2T+M)/3
     Result of Simpson approximation is an close approximation of an indefinite
     integral of some function. 
+    
     
     
     Notes: 
